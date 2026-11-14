@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /track.php
+Disallow: /ping.php
+Disallow: /geo.php
+Disallow: /contact.php
+Disallow: /review.php
